@@ -50,9 +50,9 @@ Model
 
 
 Model Evaluation
-- MAE: (write your value)
-- RMSE: (write your value)
-- R² Score: (write your value)
+- MAE: 2.45
+- RMSE: 3.27
+- R² Score: 0.59
 
 
 Conclusion
